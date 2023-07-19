@@ -26,7 +26,7 @@ taskkill /f /im SilentCMD.exe
 ```
 {% endcode %}
 
-3. Replace <mark style="color:yellow;">`your_rclone_command`</mark> in the script above 👆
+3. Replace <mark style="color:yellow;">`your_rclone_command`</mark> in the script above 👆. You can mount multiple remotes just enter after <mark style="color:orange;">**`start SilentCMD`**</mark> command
 
 {% hint style="info" %}
 See more about rclone command to use it as your demand 😪

@@ -2,7 +2,7 @@
 
 ## What's this?
 
-* This is my way to use Rclone to mount remotes like in Linux `--daemon`
+* This is my way to use Rclone to mount remotes like in Linux `--daemon`, or daemonise Rclone 🤔
 
 > You can read [rclone mount doc](https://rclone.org/commands/rclone\_mount/#synopsis) to know what is `--daemon` mean
 
