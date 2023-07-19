@@ -5,7 +5,8 @@ description: It helps to run commands silently, not open the cmd window
 # Install SilentCMD
 
 1. Go to [SilentCMD repo](https://github.com/stbrenner/SilentCMD)
-2. **Download** from [Release page](https://github.com/stbrenner/SilentCMD/releases/latest), **extract** and **put** it in a folder
+2. **Download** from [Release page](https://github.com/stbrenner/SilentCMD/releases/latest), **extract** and **put** it in a folder\
+   Or download faster you can [click here](https://github.com/stbrenner/SilentCMD/releases/latest/download/SilentCMD.zip) 😇
 3. Setup **Environment path** for **SilentCMD** folder
 
 ***

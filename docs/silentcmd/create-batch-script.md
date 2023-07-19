@@ -44,3 +44,21 @@ Copy the **full path** of the script above for the below step
 Ex: `D:Rclone mount/Mount.bat`
 
 </details>
+
+<details>
+
+<summary>Explain the script <em>(Needn't to read 😐)</em></summary>
+
+1. It will ping to `google.com`, if it fails, it will retry to ping until it successes
+2. After pinging successfully, it will start **SilentCMD** to run all <mark style="color:yellow;">`your_rclone_command`</mark>
+3. After <mark style="color:orange;">2 seconds</mark> of waiting, it will terminate _(End task)_ all the **SilentCMD** itself
+
+With **SilentCMD**, **Rclone** doesn't run under any terminal, cmd,... So after terminating **SilentCMD**, **Rclone** still works 😤
+
+</details>
+
+***
+
+{% hint style="info" %}
+And now you can click on the script to mount your remotes, but there still is a **cmd window** pops up and we need to make it run most silently. So, let's move to [create-shortcut.md](create-shortcut.md "mention") step
+{% endhint %}

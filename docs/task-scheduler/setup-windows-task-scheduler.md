@@ -87,7 +87,7 @@ _Search for:_ <mark style="color:yellow;">`Task Scheduler`</mark>\
 <summary>Step 4: Run / Stop Task</summary>
 
 * You can run or stop it immediately in **Windows Task Scheduler**\
-  ![](../.gitbook/assets/image.png)
+  ![](<../.gitbook/assets/Task Scheduler manage Task start stop.png>)
 
 <!---->
 

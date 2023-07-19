@@ -17,9 +17,9 @@
 ## 😶 SilentCMD
 
 * [Install SilentCMD](silentcmd/install-silentcmd.md)
-* [Create batch script](silentcmd/create-batch-script/README.md)
-  * [Explain script](silentcmd/create-batch-script/explain-script.md)
-* [Create shortcut](silentcmd/create-shortcut/README.md)
-  * [Set icon for shortcut](silentcmd/create-shortcut/set-icon-for-shortcut.md)
-* [Run at startup](silentcmd/run-at-startup.md)
-* [Make shortcut be as a program](silentcmd/make-shortcut-be-as-a-program.md)
+* [Create batch script](silentcmd/create-batch-script.md)
+* [Create shortcut](silentcmd/create-shortcut.md)
+* [Additional setup for shortcut](silentcmd/additional-setup-for-shortcut/README.md)
+  * [Set icon for shortcut](silentcmd/additional-setup-for-shortcut/set-icon-for-shortcut.md)
+  * [Run at startup](silentcmd/additional-setup-for-shortcut/run-at-startup.md)
+  * [Make shortcut be as a program](silentcmd/additional-setup-for-shortcut/make-shortcut-be-as-a-program.md)

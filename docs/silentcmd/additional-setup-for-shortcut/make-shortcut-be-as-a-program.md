@@ -12,14 +12,14 @@ description: You can search it as a program, pin to start menu
 {% endtab %}
 
 {% tab title="Search for all USERS" %}
-<mark style="color:red;">`shell:Common Programs`</mark>
+<mark style="color:yellow;">`shell:Common Programs`</mark>
 {% endtab %}
 {% endtabs %}
 
-2. **Copy** & **Paste** the shortcut you created from [create-shortcut](create-shortcut/ "mention")
+2. **Copy** & **Paste** the shortcut you created from [create-shortcut.md](../create-shortcut.md "mention")
 
 ***
 
 And now you can search for the shortcut in the search bar 🔎 and pin it in **Start Menu**
 
-![It can be pin on Start Menu](<../.gitbook/assets/Start Menu pin preview.png>)![It's searchable](<../.gitbook/assets/Search shortcut preview.png>)
+![It can be pin on Start Menu](<../../.gitbook/assets/Start Menu pin preview.png>)![It's searchable](<../../.gitbook/assets/Search shortcut preview.png>)
