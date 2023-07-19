@@ -1,8 +1,13 @@
 # Create batch script
 
 {% hint style="info" %}
-The directory where the batch script locates doesn't matter, you can create it in any directory
+* The directory where the batch script locates doesn't matter, you can create it in any directory
+* See more about Rclone command to use it as your demand 😪
 {% endhint %}
+
+<details>
+
+<summary>Create a Batch script file</summary>
 
 1. **Create** a batch file _(Ex: Mount.bat)_
 2. Edit it and put the below script inside the batch file\
@@ -28,10 +33,14 @@ taskkill /f /im SilentCMD.exe
 
 3. Replace <mark style="color:yellow;">`your_rclone_command`</mark> in the script above 👆. You can mount multiple remotes just enter after <mark style="color:orange;">**`start SilentCMD`**</mark> command
 
-{% hint style="info" %}
-See more about rclone command to use it as your demand 😪
-{% endhint %}
+</details>
 
-4. Copy the **full path** of the script above for the below step
+<details>
 
-> Ex: `D:Rclone mount/Mount.bat`
+<summary>Copy script file path</summary>
+
+Copy the **full path** of the script above for the below step
+
+Ex: `D:Rclone mount/Mount.bat`
+
+</details>

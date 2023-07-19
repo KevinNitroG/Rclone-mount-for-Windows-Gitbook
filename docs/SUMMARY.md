@@ -13,7 +13,6 @@
 ## 🗓 Task Scheduler
 
 * [Setup Windows Task Scheduler](task-scheduler/setup-windows-task-scheduler.md)
-* [Run](task-scheduler/run.md)
 
 ## 😶 SilentCMD
 
