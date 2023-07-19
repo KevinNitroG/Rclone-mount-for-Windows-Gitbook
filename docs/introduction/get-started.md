@@ -1,11 +1,6 @@
 ---
 description: Made by Kevin Nitro 💖
-cover: ../.gitbook/assets/windows 11 wallpaper.jpg
-coverY: -3
 layout:
-  cover:
-    visible: true
-    size: hero
   title:
     visible: true
   description:

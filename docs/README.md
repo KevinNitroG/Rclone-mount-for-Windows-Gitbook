@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/windows 11 wallpaper.jpg
+coverY: 0
+---
+
 # Rclone mount for Windows
 
 ## What's this?
