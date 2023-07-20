@@ -20,7 +20,10 @@ layout:
 
 <table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><a data-mention href="broken-reference">Broken link</a></td></tr><tr><td><a data-mention href="broken-reference">Broken link</a></td></tr><tr><td><a data-mention href="broken-reference">Broken link</a></td></tr></tbody></table>
 
-[Broken link](broken-reference "mention") is a mix of [Broken link](broken-reference "mention") & [Broken link](broken-reference "mention"), but you have to read both of them first
+***
+
+* [Broken link](broken-reference "mention") is a mix of [Broken link](broken-reference "mention") & [Broken link](broken-reference "mention"), but you have to read both of them first
+* If you wish to stop mounting, you have to <mark style="color:purple;">**End task**</mark> in <mark style="color:yellow;">**Task Manager**</mark>
 
 ***
 
