@@ -84,7 +84,25 @@ _Search for:_ <mark style="color:yellow;">`Task Scheduler`</mark>\
 
 <details>
 
-<summary>Step 4: Run / Stop Task</summary>
+<summary>Step 4: In case your computer hasn't connect to a network yet</summary>
+
+Sometimes your computer hasn't connected to a network before the **Rclone mount** fails, which will lead to the task stopping. To prevent this, we will make a trigger to trigger the task every time your computer connects to a network
+
+1. In the <mark style="color:yellow;">**Trigger**</mark> tab, click on <mark style="color:yellow;">**New...**</mark>\
+   ![](<../.gitbook/assets/Task Scheduler - Step 4 Pic 1.png>)
+2. Set up like me:\
+   <mark style="color:yellow;">**Begin the task:**</mark> `On an event`\ <mark style="color:yellow;">**Log:**</mark> `Microsoft-Windows-NetworkProfile/Operational`\
+   <mark style="color:yellow;">**Source:**</mark> `NetworkProfile`\
+   <mark style="color:yellow;">**Event ID:**</mark> `10000`\
+   ![](<../.gitbook/assets/Task Scheduler - Step 4 Pic 2.png>)
+
+But note that, the task will be triggered even if it has an internet connection or not 😐
+
+</details>
+
+<details>
+
+<summary>Step 5: Run / Stop Task</summary>
 
 * You can run or stop it immediately in **Windows Task Scheduler**\
   ![](<../.gitbook/assets/Task Scheduler manage Task start stop.png>)
