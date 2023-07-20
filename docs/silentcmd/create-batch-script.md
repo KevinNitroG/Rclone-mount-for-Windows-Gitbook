@@ -9,7 +9,9 @@
 
 <summary>Create a Batch script file</summary>
 
-1. **Create** a batch file _(Ex: Mount.bat)_
+1. **Create** a batch file _(Ex: Mount.bat)_\
+   ![](<../.gitbook/assets/Create a Batch script 1.png>)\
+   ![](<../.gitbook/assets/Create a Batch script 2 Rename.png>)
 2. Edit it and put the below script inside the batch file\
    _(Ex: Notepad, Visual Studio Code,...)_
 
