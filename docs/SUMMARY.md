@@ -10,11 +10,11 @@
 * [Setup Rclone](requirements/setup-rclone.md)
 * [Set environment variable path](requirements/set-environment-variable-path.md)
 
-## 🗓 Task Scheduler
+## 🗓 TASK SCHEDULER
 
 * [Setup Windows Task Scheduler](task-scheduler/setup-windows-task-scheduler.md)
 
-## 😶 SilentCMD
+## 😶 SILENTCMD
 
 * [Install SilentCMD](silentcmd/install-silentcmd.md)
 * [Create batch script](silentcmd/create-batch-script.md)
