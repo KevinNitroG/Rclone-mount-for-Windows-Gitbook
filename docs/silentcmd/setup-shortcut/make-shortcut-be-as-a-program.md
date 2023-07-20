@@ -16,7 +16,7 @@ description: You can search it as a program, pin to start menu
 {% endtab %}
 {% endtabs %}
 
-2. **Copy** & **Paste** the shortcut you created from [create-shortcut.md](../create-shortcut.md "mention")
+2. **Copy** & **Paste** the shortcut you created from [create-shortcut.md](create-shortcut.md "mention")
 
 ***
 

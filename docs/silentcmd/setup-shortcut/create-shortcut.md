@@ -6,7 +6,7 @@ description: Create a shortcut to run the batch script with SilentCMD
 
 1. Right-click anywhere to open **Context Menu** --> **New** --> **Shortcut**
 2. **Type the location of the item:** \
-   `SilentCMD "`<mark style="color:green;">`the_full_path_of_batch_script`</mark>`"`
+   `SilentCMD "`<mark style="color:purple;">`full/path/to/your/script`</mark>`"`
 3. **Type a name for this shortcut:**\
    Anything you want _(Ex: Rclone mount)_
 

@@ -16,7 +16,7 @@ description: Run Rclone mount when your windows start
 {% endtab %}
 {% endtabs %}
 
-2. **Copy** & **Paste** the shortcut you created from [create-shortcut.md](../create-shortcut.md "mention")
+2. **Copy** & **Paste** the shortcut you created from [create-shortcut.md](create-shortcut.md "mention")
 
 ***
 
